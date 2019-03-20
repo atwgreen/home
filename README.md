@@ -26,6 +26,13 @@ Act as an incubator for multiple companies and efforts.
 
 ### Website:
 www.atwg.tech
+Staging: www2.atwg.tech
 
 ### FreeFlowPages
 https://freeflowpages.com/s/atwgreen/
+
+### Gitea
+https://docs.grid.tf/atwgreen
+
+### Google Drive
+https://drive.google.com/drive/folders/0Bzao89FQ6FhNVUtyNzVHR2FpMjQ
