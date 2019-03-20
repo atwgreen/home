@@ -3,7 +3,7 @@
 
 A green tech company based in the United Arab Emirates focused on promoting sustainable and energy efficiency by applying [ThreeFold](https://threefold.io/) technology to improve energy storage, distribution and scalability.
 
-Act as an incubator for multiple companies and efforts.
+Acts as an incubator for multiple companies and efforts.
 
 ### Owner: 
 * [Adnan Fatayerji](https://github.com/AdnanFatayerji)
