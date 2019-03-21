@@ -10,15 +10,14 @@ Acts as an incubator for multiple companies and efforts.
 * [Kristof de Spiegeleer](https://github.com/despiegk/)
 
 ### Team:
-* [Adnan Fatayerji](https://github.com/AdnanFatayerji) - Strategy Advisor
-* [Kristof de Spiegeleer](https://github.com/despiegk/) - Tech Advisor
-* [Olivia Jurado](https://github.com/juradoo)
-* [Nickolay Babenko](https://github.com/nbabenko), 
-* David, 
-* Neerjai, 
-* Anton Emelyanenko, 
-* Gloria,
-* Kyle Weber - Coordinator
+* [Adnan Fatayerji](https://www.linkedin.com/in/adnansf/) - Strategy Advisor
+* [Kristof de Spiegeleer](https://www.linkedin.com/in/despiegk/) - Tech Advisor
+* [Olivia Jurado](https://www.linkedin.com/in/oliviajurado/)
+* [Nickolay Babenko](https://www.linkedin.com/in/babenkonickolay/), 
+* [David Sancu](https://www.linkedin.com/in/david-stancu-arhitectura/), 
+* [Neerjai Mathur](https://www.linkedin.com/in/neeraj-mathur-04215137/), 
+* [Gloria Anne](https://www.linkedin.com/in/gloria-anne-c/),
+* [Kyle Weber](https://www.linkedin.com/in/kyle-weber-51b7bba5/) - Coordinator
 
 
 ### Website:
