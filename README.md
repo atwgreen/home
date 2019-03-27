@@ -18,6 +18,9 @@ Acts as an incubator for multiple companies and efforts.
 * [Neerjai Mathur](https://www.linkedin.com/in/neeraj-mathur-04215137/), 
 * [Gloria Anne](https://www.linkedin.com/in/gloria-anne-c/),
 * [Kyle Weber](https://www.linkedin.com/in/kyle-weber-51b7bba5/) - Coordinator
+* [Ahmed Siddique](https://www.linkedin.com/in/ahmed-siddique-a4126a98/)
+* [Abdul Rehman Rajput](https://www.linkedin.com/in/arrajput/)
+* [Ahmed Samir Elbermbali](https://www.linkedin.com/in/ahmedelbermbali/)
 
 
 ### Website:
